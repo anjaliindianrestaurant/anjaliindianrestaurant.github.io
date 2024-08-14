@@ -1,0 +1,186 @@
+ID    Name of the Dish                      Short Description                                                               Price
+
+Vegetarian:         
+173   Dal Makhani                           indischer Linseneintopf in Buttersoße                                           12,00 €
+174   Palak Paneer                          mit Spinat und indischem Käse mit Currysoße                                     12,00 €
+175   Vegetarisches Korma                   mit gebratenem Gemüse, Käse und Mandeln in einer Joghurt-Kokos-Soße             12,00 €
+177   Paneer Curry                          indischer Käse in Tomaten-Curry-Soße                                            12,00 €
+178   Chana Masala                          Tomaten und Ingwer in Kichererbsensoße                                          12,00 €
+179   Aloo Gobi                             Kartoffeln und Blumenkohl in fein gewürzter Currysoße                           12,00 €
+180   Shahi Paneer                          indischer Rahmkäse mit Mandeln und Rosinen in Currysoße                         12,00 €
+181   Mattar Paneer                         Erbsen und Rahmkäse in Currysoße                                                12,00 €
+182   Paneer Masala                         indischer Käse mit Paprika, Chili und indischen Gewürzen                        12,00 €
+183   Mixed Sabji                           angebratenes Gemüse in Currysoße                                                12,00 €
+184   Aloo Matar                            Kartoffeln, Erbsen, Ingwer und Zwiebeln in Currysoße                            12,00 €
+186   Cheese Chili                          indischer Käse in Tomaten-Curry-Soße (scharf)                                   12,00 €
+187   Anjali Mallai Korma                   gebratenes Gemüse in Pistazien-Sahnesoße                                        12,00 €
+188   Paneer Tikka                          indischer Rahmkäse, verschiedene Gewürze in Currysoße                           12,00 €
+189   Anjali Mallai Koffta                  mit Kartoffeln, Käse und Gemüse in einer milder Curry-Cremesoße                 12,00 €
+191   Mushroom Chana Paneer                 Champignons, Käse und Kichererbsen in Curry-Tomatensoße                         12,00 €
+192   Krahi Paneer                          gebratener Rahmkäse, Paprika, Zwiebeln in Tomaten-Cremesoße                     12,00 €
+193   Kofta Kandari Minze                   Koriander, Sesamöl und Gemüsebällchen in Cremesoße                              12,00 €
+194   Curry Kofta                           Gemüse und Käsebällchen in Curry-Cremesoße                                      12,00 €
+195   Vegetarisches Mango Curry             frisches Gemüse in Mangosoße                                                    12,00 €
+196   Chana Palak                           Kichererbsen und Spinat in Currysoße                                            12,00 €
+A197  Shahi Paneer                          ind. Rahmkäse, Mandeln, Rosinen in Currysoße (extra scharf)                     12,00 €
+
+
+Vegan:          
+201   Vegan Curry                           Seitan und gebratenes Gemüse in Tomaten-Currysoße                               13,00 €
+202   Vegan Korma                           Gemüse, Mandeln und Rosinen in Kokoscremesoße                                   13,00 €
+203   Palak Paneer                          Tofu und Spinat in Currysoße                                                    13,00 €
+204   Aloo Baignan                          Kartoffeln und Aubergine in fein gewürzter Currysoße                            13,00 €
+205   Aloo Mattar                           Kartoffeln, Erbsen, Ingwer und Zwiebeln in Currysoße                            13,00 €
+206   Mix Vegan                             frisch gebratenes Gemüse in Currysoße                                           13,00 €
+207   Shahi Paneer                          Tofu, Mandeln und Rosinen in Kokoscremesoße                                     13,00 €
+208   Vegan Krahi                           Seitan, Paprika und Zwiebeln in Tomatensoße                                     13,00 €
+209   Vegan Tikka                           Seitan, Paprika und Zwiebeln in Kokoscremesoße                                  13,00 €
+210   Vegan Masala                          Seitan, Paprika Chili und indische Gewürze                                      13,00 €
+211   Vegan Mandelin                        Seitan, Mandeln und Rosinen in Kokoscremesoße                                   13,00 €
+212   Vegan Sabji                           mit frisch angebratenem Gemüse, Kartoffel und Kokoscremesoße                    13,00 €
+213   Vegan Allu Paneer                     mit Kartoffel und veganem Käse mit Curry und Kokoscremesoße                     13,00 €
+214   Vegan Champignons Chana               mit weißen Champignons, Erbsen, Kartoffel und Kokos in scharfer Tomatensoße     13,00 €
+
+Starters:           
+114   Kartoffel Samosas                     (2 Stück)                                                                       8,00 €
+115   Chicken Samosas                       (2 Stück)                                                                       8,00 €
+319   Chutney Samosas                       (2 Stück)                                                                       8,00 €
+116   Chicken Pakora                        mit Hähnchen                                                                    6,50 €
+117   Paneer Pakora                         mit indischem Käse                                                              7,50 €
+118   Gemüse Pakora                         mit Kartoffeln und Blumenkohl                                                   6,50 €
+119   Mix Pakora                            mit Fleisch, Gemüse und Käse                                                    8,00 €
+120   Aloo Paratha                          mit Kartoffeln                                                                  11,00 €
+122   Cheese Paratha                        mit indischem Käse                                                              11,00 €
+36    Anjali Teller                         mit Halloumi, Kartoffelflecken, Falafel und Reis                                9,00 €
+37    Vegetarischer Teller                  mit Halloumi, Falafel, gebratenem Gemüse, Mozzarella und Brot oder Reis         10,00 €
+38    Veganer Teller                        mit veganem Fleisch, gebratenem Gemüse, Salat und Reis                          11,00 €
+39    Gemischter Salat                      mit Eisbergsalat, Tomaten und Gurke                                             6,00 €
+40    Tandoori Salat                        mit mariniertem Hähnchen                                                        9,00 €
+41    Salat Tonno                           gemischter Salat mit Thunfisch und Zwiebeln                                     8,00 €
+42    Salat Hawaii                          gemischter Salat mit Kochschinken und Ananas                                    6,50 €
+43    Halloumi Salat                        gemischter Salat mit Halloumikäse                                               9,00 €
+44    Anjali Spezial                        gemischter Salat mit gebrat. Gemüse & paniertem Schafskäse                      9,00 €
+A51   Pide                                  mit Spinat und Käse                                                             11,00 €
+A52   Pide                                  mit Brokkoli und Käse                                                           11,00 €
+A53   Pide                                  mit Spinat Knoblauch und Ei                                                     11,00 €
+A54   Pide                                  mit Thunfisch                                                                   11,00 €
+
+Chicken:            
+128   Butter Chicken Masala                 mit Hähnchen in Curry-Sahnesoße                                                 13,00 €
+129   Krahi Chicken                         mit Hähnchenfleisch, Paprika, Zwiebeln in Tomatensoße                           13,00 €
+130   Chicken Chili                         mit Hähnchenfleisch, Zwiebeln, Paprika, Chees-Chili-Soße                        13,00 €
+131   Chicken Curry                         mit zartem Hähnchen in Currysoße                                                13,00 €
+132   Chicken Korma                         Hähnchen, Mandeln und Rosinen in Sahnesoße                                      13,00 €
+133   Butter Chicken                        Hähnchen in milder Curry-Sahnesoße                                              13,00 €
+A133  Vegetar. Butter Chicken               mit gebratenem Gemüse in milder Currysoße                                       13,00 €
+134   Fruity Chicken                        Hähnchen, in fruchtiger Ananas-Currysoße                                        13,00 €
+135   Chicken Vindaloo                      Hähnchen mit Kartoffeln (sehr scharf)                                           13,00 €
+136   Anjali Tandoori Tikka                 mariniertes Hähnchen in Pickles-Soße                                            13,00 €
+137   Chicken Saag                          Hähnchen mit Spinat in Currysoße                                                13,00 €
+138   Chicken Spezial                       Hähnchen mit gebratenem Gemüse in Currysoße                                     13,00 €
+139   Hot Mango                             Hähnchen in fruchtig-pikanter Mango-Currysoße                                   13,00 €
+140   Chicken Jalfrezi                      Hähnchen, Paprika, Ingwer, Zwiebeln, Chili und scharfe Tomatensoße              13,00 €
+141   Tandoori Chicken                      mariniertes Hähnchen (geschmort) mit indischen Gewürzen                         13,00 €
+142   Rahm Curry                            mit Hähnchen und gebratenem Käse in Currysoße                                   13,00 €
+143   Badam Passanda                        Hähnchen in einer Nuss-Soße mit Kokosflocken und gemahlenen Mandeln             13,00 €
+144   Chicken Pasawer                       mit Hähnchen und gemahlenen Mandeln in Nuss-Soße                                13,00 €
+145   Chicken Korma Spezial                 mit Hähnchen und gebratenem Gemüse in Korma-Soße                                13,00 €
+146   Madras Curry                          mit Hähnchen in Currysoße (scharf)                                              13,00 €
+147   Chick Chicken                         mit Hähnchen und Kichererbsen in Currysoße (scharf)                             13,00 €
+148   Chicken Tikka                         mit Hähnchen, Zwiebeln und Paprika in Currysoße                                 13,00 €
+149   Chicken Tandoori                      mariniertes Hähnchen mit indischen Gewürzen und fruchtiger Mangosoße            13,00 €
+153   Tandoori Korma                        mariniertes Hähnchen in milder Curry-Cashew-Creme-Soße                          13,00 €
+
+
+Miscelleneous:          
+70    Calzone Classic                       mit Tomatensoße, Kochschinken, Käse, Salami und Champignons                     11,00 €
+71    Calzone Ei                            mit Salami, Schinken, Hackfleisch, Zwiebeln, Knoblauch                          11,00 €
+75    Pomodore                              mit Tomatensoße "Napoli Art"                                                    11,00 €
+76    Carbonara                             mit Kochschinken, Sahnesoße, Ei und Parmesankäse                                11,00 €
+78    Gorgonzola                            mit Gorgonzola Sahnesoße                                                        11,00 €
+79    Quattro Formaggi                      mit Sahnesoße und 4 Käse                                                        11,00 €
+80    Serafino                              mit Kochschinken, Champignons, Sahnesoße und Käse überbacken                    11,00 €
+81    Luigi                                 mit Kochschinken, Brokkoli, Sahnesoße und Käse überbacken                       11,00 €
+82    Spinaci-Chicken                       mit Hähnchenbrustfilet, Spinat, Sahnesoße & Käse überbacken                     11,00 €
+84    Pasta Anjali                          mit Thunfisch, Knoblauch, Chili und Tomatensoße                                 11,00 €
+85    Pasta Salmone                         mit Lachsfilet, Spinat und Sahne-Tomatensoße                                    11,00 €
+100   Wiener Art                            mit paniertem Hähnchenschnitzel                                                 10,50 €
+101   Zigeuner Schnitzel                    mit scharfer Zigeunersoße                                                       11,00 €
+102   Rahmschnitzel                         mit Kochschinken, Champignons in Sahnesoße                                      11,00 €
+103   Hawaii                                mit Kochschinken und Ananas in Sahnesoße                                        11,00 €
+104   Apollo                                mit gebratenen Champignons, Zwiebeln und Sahnesoße                              11,00 €
+105   Gorgonzola                            mit Gorgonzola und Sahnesoße                                                    11,00 €
+106   Brokkoli                              mit Brokkoli in Sahnesoße                                                       11,00 €
+107   Indisches Schnitzel                   mit Kichererbsensoße                                                            11,50 €
+
+112   Portion Pommes                        Klein                                                                           4,00 €  
+112   Portion Pommes                        groß                                                                            5,00 €
+
+
+
+Fish, Meat and Rice:            
+152   Fisch Curry                           Fischfilet in Currysoße                                                         14,00 €
+154   Fisch Masala                          Fischfilet mit Paprika, Chili und indischen Gewürze                             14,00 €
+168   Ente Curry                            Entenfleisch in Tomaten-Curry-Cashew-Soße in Currysoße                          16,00 €
+169   Ente Korma                            Entenfleisch mit Mandeln und Rosinen in Cashew-Sahnesoße                        16,00 €
+170   Ente Mango                            Entenfleisch mit Mandeln in Mango-Currysoße                                     16,00 €
+171   Ente Gemüse                           Entenfleisch mit frisch gebratenem Gemüse in Curry-Cashew-Soße                  16,00 €
+172   Ente Paneer                           Entenfleisch mit indischem Käse in Tomaten-Currysoße                            16,00 €
+156   Lamm Curry                            Lamm in Currysoße                                                               15,00 €
+157   Lamm Saag                             Lamm mit Spinat in Currysoße                                                    15,00 €
+158   Lamm Sabji                            Lamm mit frisch gebratenem Gemüse in Currysoße                                  15,00 €
+159   Lamm Masala                           Lamm mit Paprika, Chili und indischen Gewürzen                                  15,00 €
+160   Lamm Korma                            Lamm mit Mandeln und Rosinen in indischer Sahnesoße                             15,00 €
+161   Lamm Pistazie                         Lamm mit Pistazie in hausgemachter Cremesoße (mild)                             15,00 €
+162   Lamm Tikka                            gegrilltes Lamm mit Paprika, Zwiebeln in einer Curry-Cashew-Cremesoße           15,00 €
+165   Mugli Lamm Paneer                     gegrilltes Lamm mit gewürztem indischen Käse in Tomaten-Currysoße               15,00 €
+166   Lamm Kandari                          Lammfleisch in einer Curry-Minz-Soße                                            15,00 €
+167   Lamm Vindaloo                         Lammfleisch und Kartoffeln in scharfer Tomatensoße                              15,00 €
+A167  Lamm Madras                           Lammfleisch in scharfer Currysoße                                               15,00 €
+197   Vegetarisches Biryani                 Basmatireis, Gemüse, Nüsse, Rosinen und indischen Gewürzen                      12,00 €
+198   Veggi Korma Biryani                   Basmatireis mit milder Korma-Cashew-Cremesoße                                   12,00 €
+199   Mutton Biryani                        mit Basmatireis, Lammfleisch, Nüssen, Rosinen und indischen Gewürzen            15,00 €
+200   Chicken Biryani                       mit Basmatireis, Hähnchen und Joghurtsöße                                       13,00 €
+
+
+Pizza:
+ID   Name of the Dish          Short Description                                        Price (28cm)  Price (32cm)
+49   Lachs                    Lachsfilet Sauce Hollandaise und Spinat                  8,50 €        9,50 €
+50   Margherita               mit Tomatensoße und Käse                                 8,50 €        9,50 €
+51   Funghi                   mit Champignons                                          9,50 €        10,50 €
+52   Salami                   --                                                       9,50 €        10,50 €
+53   Prosciutto               mit Kochschinken                                         9,50 €        10,50 €
+54   Tonno                    mit Thunfisch und Zwiebeln                               11,00 €       12,00 €
+55   Hawaii                   mit Schinken und Ananas                                  12,00 €       13,00 €
+56   Mozzarella               mit Mozzarella, Tomaten und frischem Basilikum           12,00 €       13,00 €
+57   Spinaci                  mit Spinat, Ei und Knoblauch                             12,00 €       13,00 €
+58   Hähnchenbrust            mit Hähnchenbrustfilet, Spinat, Zwiebeln und Sauce Hollandaise  12,00 €  13,00 €
+61   Quattro Formaggi         mit 4 verschiedenen Käsesorten                           12,00 €       13,00 €
+62   Vier Jahreszeiten        mit Salami, Champignons, Thunfisch und Spinat            12,00 €       13,00 €
+63   Diavolo                  mit Salami, Kochschinken, Paprika, Peperoni und Zwiebeln 12,00 €       13,00 €
+64   Lugano                   mit Salami, Kochschinken, Paprika, Champignons, Peperoni und Zwiebeln  12,00 €  13,00 €
+65   New York                 mit Kochschinken, Thunfisch, Champignons und Spinat      12,00 €       13,00 €
+66   Boston                   mit Sauce Hollandaise (statt Tomatensoße), Brokkoli und Kochschinken  12,00 €  13,00 €
+67   Vegetarisch              mit Spinat, Halloumi Käse, Paprika und Oliven            12,00 €       13,00 €
+68   Anjali                   mit Brokkoli, Mais, Mozzarella, Spinat und Artischocken  12,00 €       13,00 €
+69   Hackfleisch              mit Hackfleisch, Peperoni, Zwiebeln und Sardellen        10,00 €       12,00 €
+A60  Hot Mango                mit Hähnchen in fruchtig pikanter Mango-Currysoße        12,00 €       14,00 €
+A61  Chicken Jalfrezi         mit Hähnchen, Paprika, Ingwer, Zwiebeln, Chili und scharfer Tomatensoße  12,00 €  14,00 €
+A62  Chicken Tikka            mit Hähnchen, Zwiebeln, Paprika und mittelscharfer Currysoße  12,00 €  14,00 €
+A63  Pineapple                mit Hähnchen, Ananas und indischer Gewürzsoße            12,00 €       14,00 €
+A64  Aubergine                mit Hähnchen, Aubergine und mittelscharfer Currysoße     12,00 €       14,00 €
+A65  Tandoori Chicken         mariniertes Hähnchen mit indischen Gewürzen              12,00 €       14,00 €
+A66  Chicken Pizza            mit Hähnchenbrust, Zwiebeln und mittelscharfer Currysoße 12,00 €       14,00 €
+A67  Indisch Vegetarisch      versch. Gemüse und indische Gewürze (scharf)             12,00 €       14,00 €
+
+
+
+Traditional and Home Made:          
+--    Mango Lassi (klein)                   --                                                                              5,00 €
+--    Mango Lassi (groß)                    --                                                                              6,00 €
+--    Mangocreme (klein)                    --                                                                              5,00 €
+--    Mangocreme (groß)                     --                                                                              6,00 €
+--    Mango Lassi mit Kokoscreme (klein)    --                                                                              6,00 €
+--    Mango Lassi mit Kokoscreme (groß)     --                                                                              7,00 €
+
+
