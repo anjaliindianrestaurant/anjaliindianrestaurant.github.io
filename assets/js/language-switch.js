@@ -23,6 +23,6 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   
     // Set default language
-    setLanguage('en');
+    setLanguage('de');
   });
   
