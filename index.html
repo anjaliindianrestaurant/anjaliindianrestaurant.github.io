@@ -67,18 +67,22 @@
             <li><a href="#about" data-lang="en">About</a><a href="#about" data-lang="de" style="display: none;">Über uns</a></li>
             <li><a href="#menu" data-lang="en">Menu</a><a href="#menu" data-lang="de" style="display: none;">Speisekarte</a></li>
             <li><a href="#specials" data-lang="en">Specials</a><a href="#specials" data-lang="de" style="display: none;">Angebote</a></li>
-            <li><a href="#events" data-lang="en">Events</a><a href="#events" data-lang="de" style="display: none;">Veranstaltungen</a></li>
+            <!-- <li><a href="#events" data-lang="en">Events</a><a href="#events" data-lang="de" style="display: none;">Veranstaltungen</a></li> -->
             <li><a href="#gallery" data-lang="en">Gallery</a><a href="#gallery" data-lang="de" style="display: none;">Galerie</a></li>
             <li><a href="#contact" data-lang="en">Contact</a><a href="#contact" data-lang="de" style="display: none;">Kontakt</a></li>
+            <!-- <li><a data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-lang="en">Order Now</a> -->
+                <!-- <a data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-lang="de" style="display: none;">Jetzt Bestellen</a></li> -->
+            <!-- <li><a data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-glf-reservation="true" data-lang="en">Book a Table</a> -->
+                <!-- <a data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-glf-reservation="true" data-lang="de" style="display: none;">Tisch reservieren</a></li> -->
           </ul>
           <i class="mobile-nav-toggle d-xl-none bi bi-list"></i>
         </nav>
 
         <!-- If you would like to customize the button, remove or change the "class" attribute inside the <span> tag -->
-        <span style="border-radius:40px" data-lang="de" class="glf-button" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" >Jetzt Bestellen</span>
-        <span style="border-radius:40px" data-lang="en" class="glf-button" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" >Order Now</span>
-        <span style="border-radius:40px" data-lang="de" class="glf-button reservation" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-glf-reservation="true" >Tisch reservieren</span>
-        <span style="border-radius:40px" data-lang="en" class="glf-button reservation" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-glf-reservation="true" >Book a Table</span>
+        <span style="font-size:16px; padding:10px; border-radius:40px;" data-lang="de" class="glf-button" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" >Jetzt Bestellen</span>
+        <span style="font-size:16px; padding:10px; border-radius:40px;" data-lang="en" class="glf-button" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" >Order Now</span>
+        <span style="font-size:16px; padding:10px; border-radius:40px;" data-lang="de" class="glf-button reservation" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-glf-reservation="true" >Tisch reservieren</span>
+        <span style="font-size:16px; padding:10px; border-radius:40px;" data-lang="en" class="glf-button reservation" data-glf-cuid="2f9dc609-9dbf-4c55-85e9-d260ed8fe274" data-glf-ruid="fade633b-6e1b-4584-aef7-85e00ae10ba6" data-glf-reservation="true" >Book a Table</span>
   
         <!-- <a href="index_order.html" data-lang="en" class="book-table-link">Order Now</a> -->
         <!-- <a href="#book-a-table" data-lang="en" class="book-table-link">Book a Table</a> -->
@@ -231,6 +235,7 @@
       <div class="col-lg-12 d-flex justify-content-center">
         <ul class="menu-filters isotope-filters">
           <li data-filter="*" class="filter-active">All</li>
+          <li data-filter=".filter-none" class="filter-active">Close Menu</li>
           <li data-filter=".filter-chicken">Indian Chicken Specials</li>
           <li data-filter=".filter-starters">Starters and Salads</li>
           <li data-filter=".filter-non-vegetarian">Non Vegetarian</li>
@@ -1768,9 +1773,9 @@
 
       </div>
 
-    </section><!-- /Specials Section -->
+    <!-- /Specials Section -->
+    <!-- </section>
 
-    <!-- Events Section -->
     <section id="events" class="events section">
 
       <img class="slider-bg" src="assets/img/events-bg.jpg" alt="" data-aos="fade-in">
@@ -1818,7 +1823,8 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End Slider item -->
+            </div>
+
 
             <div class="swiper-slide">
               <div class="row gy-4 event-item">
@@ -1843,7 +1849,9 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End Slider item -->
+            </div>
+
+
 
             <div class="swiper-slide">
               <div class="row gy-4 event-item">
@@ -1868,7 +1876,7 @@
                   </p>
                 </div>
               </div>
-            </div><!-- End Slider item -->
+            </div>
 
           </div>
           <div class="swiper-pagination"></div>
@@ -1876,7 +1884,8 @@
 
       </div>
 
-    </section><!-- /Events Section -->
+    </section> -->
+    <!-- /Events Section -->
 
     <!-- Book A Table Section -->
     <!-- <section id="book-a-table" class="book-a-table section">
