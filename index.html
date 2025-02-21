@@ -244,20 +244,20 @@
           <div class="col-lg-3">
             <ul class="nav nav-tabs flex-column">
               <li class="nav-item">
-                <a class="nav-link active show" data-bs-toggle="tab" href="#specials-tab-6">Montag</a>
+                <a class="nav-link active show" data-bs-toggle="tab" href="#specials-tab-6">Indischer Tag (Wochentage)</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#specials-tab-7">Dienstag</a>
               </li> -->
               <li class="nav-item">
-                <a class="nav-link" data-bs-toggle="tab" href="#specials-tab-8">Mittwoch</a>
+                <a class="nav-link" data-bs-toggle="tab" href="#specials-tab-8">Anjali Special Menü (Mittwoch)</a>
               </li>
               <!-- <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#specials-tab-9">Donnerstag</a>
               </li> -->
-              <li class="nav-item">
+              <!-- <li class="nav-item">
                 <a class="nav-link" data-bs-toggle="tab" href="#specials-tab-10">Freitag</a>
-              </li>
+              </li> -->
             </ul>
           </div>
           <div class="col-lg-9 mt-4 mt-lg-0">
@@ -265,9 +265,17 @@
               <div class="tab-pane active show" id="specials-tab-6">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3>Montag Indischer Tag</h3>
-                    <p data-lang="de" class="fst-italic">Das Angebot gilt bis Ganzer Tag Uhr, außer an Feiertagen und nur bei Abholung oder zum hier essen.</p>
-                    <p data-lang="en" class="fst-italic">The offer is valid ALL DAY, except on public holidays and only for pick-up or to dine-in.</p>
+                    <!-- <h3>Indischer Tag (Wochentage)</h3>
+                    <p data-lang="en" class="fst-italic">Monday: Offer Valid All Day</p>
+                    <p data-lang="en" class="fst-italic">Tuesday: From 11.a.m to 2.p.m</p>
+                    <p data-lang="en" class="fst-italic">Wednesday: From 11.a.m to 2.p.m</p>
+                    <p data-lang="en" class="fst-italic">Thursday: From 11.a.m to 2.p.m</p>
+                    <p data-lang="en" class="fst-italic">Friday: Offer Valid All Day</p>
+                    <p data-lang="de" class="fst-italic">Montag: Angebot gültig Ganztägig</p>
+                    <p data-lang="de" class="fst-italic">Dienstag: Von 11.00 bis 14.00 Uhr</p>
+                    <p data-lang="de" class="fst-italic">Mittwoch: Von 11.00 bis 14.00 Uhr</p>
+                    <p data-lang="de" class="fst-italic">Donnerstag: Von 11.00 bis 14.00 Uhr</p>
+                    <p data-lang="de" class="fst-italic">Freitag: Angebot gültig Ganztägig</p>
                     <p data-lang="de" class="fst-italic">Hähnchenfleisch Gerichte : 8 EUR</p>
                     <p data-lang="en" class="fst-italic">Chicken dishes : 8 EUR</p>
                     <p data-lang="de" class="fst-italic">Fisch- und Lamm Gerichte : 10 EUR</p>
@@ -276,7 +284,54 @@
                     <p data-lang="en" class="fst-italic">Vegetarian Dishes : 8 EUR</p>
                     <p data-lang="de" class="fst-italic">Vegane Gerichte : 10 EUR</p>
                     <p data-lang="en" class="fst-italic">Vegan Dishes : 10 EUR</p>
-                    <p data-lang="en" class="fst-italic">Vegan Dishes : 10 EUR</p>
+                    <p data-lang="en" class="fst-italic">Vegan Dishes : 10 EUR</p> -->
+                    <div class="offer-section">
+                      <h3 data-aos="fade-up">Indischer Tag (Wochentage)</h3>
+                      
+                      <!-- Weekday Offers Table -->
+                      <table class="offer-table" data-aos="fade-up" data-aos-delay="100">
+                          <tr>
+                              <th data-lang="en">Day</th>
+                              <th data-lang="en">Offer Availability</th>
+                              <th data-lang="de" style="display:none;">Tag</th>
+                              <th data-lang="de" style="display:none;">Angebot gültig</th>
+                          </tr>
+                          <tr>
+                              <td data-lang="en">Monday</td><td data-lang="en">All Day</td>
+                              <td data-lang="de">Montag</td><td data-lang="de">Ganztägig</td>
+                          </tr>
+                          <tr>
+                              <td data-lang="en">Tuesday</td><td data-lang="en">11:00 AM - 2:00 PM</td>
+                              <td data-lang="de">Dienstag</td><td data-lang="de">11:00 - 14:00 Uhr</td>
+                          </tr>
+                          <tr>
+                              <td data-lang="en">Wednesday</td><td data-lang="en">11:00 AM - 2:00 PM</td>
+                              <td data-lang="de">Mittwoch</td><td data-lang="de">11:00 - 14:00 Uhr</td>
+                          </tr>
+                          <tr>
+                              <td data-lang="en">Thursday</td><td data-lang="en">11:00 AM - 2:00 PM</td>
+                              <td data-lang="de">Donnerstag</td><td data-lang="de">11:00 - 14:00 Uhr</td>
+                          </tr>
+                          <tr>
+                              <td data-lang="en">Friday</td><td data-lang="en">All Day</td>
+                              <td data-lang="de">Freitag</td><td data-lang="de">Ganztägig</td>
+                          </tr>
+                      </table>
+                  
+                      <!-- Meal Prices -->
+                      <div class="meal-prices" data-aos="fade-up" data-aos-delay="200">
+                          <h4 data-lang="en">Special Meal Prices</h4>
+                          <h4 data-lang="de" style="display:none;">Spezielle Menüpreise</h4>
+                  
+                          <ul>
+                              <li><span data-lang="en">Chicken Dishes</span> <span data-lang="de" style="display:none;">Hähnchenfleisch Gerichte</span>: 8 EUR</li>
+                              <li><span data-lang="en">Fish and Lamb Dishes</span> <span data-lang="de" style="display:none;">Fisch- und Lamm Gerichte</span>: 10 EUR</li>
+                              <li><span data-lang="en">Vegetarian Dishes</span> <span data-lang="de" style="display:none;">Vegetarische Gerichte</span>: 8 EUR</li>
+                              <li><span data-lang="en">Vegan Dishes</span> <span data-lang="de" style="display:none;">Vegane Gerichte</span>: 10 EUR</li>
+                          </ul>
+                      </div>
+                  </div>
+                  
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
                     <img src="assets/img/menu.jpeg" alt="" class="img-fluid">
@@ -299,7 +354,7 @@
               <div class="tab-pane" id="specials-tab-8">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
-                    <h3 data-lang="en">Wednesday ANJALI SPEZIAL MENÜ</h3>
+                    <!-- <h3 data-lang="en">Wednesday ANJALI SPEZIAL MENÜ</h3>
                     <h3 data-lang="de">Mittwoch ANJALI SPEZIAL MENÜ</h3>
                     <p data-lang="en" class="fst-italic">From 9:30.a.m to 2.p.m and 6.p.m to 9.p.m</p>
                     <p data-lang="en" class="fst-italic">All dishes can be ordered in 2 versions: Vegetarian version for 12€ and vegan version (with coconut cream) for 13€.</p>
@@ -324,10 +379,78 @@
                     <p data-lang="de" class="fst-italic">Bread Pakora - gefülltes Sandwich mit Kichererbsenmehl fritiert (8,00€)</p>
                     <p data-lang="en" class="fst-italic">Bread Pakora - stuffed sandwich deep-fried with chickpea flour (8,00€)</p>
                     <p data-lang="de" class="fst-italic">Samosas Chaat (9,00€)</p>
-                    <p data-lang="en" class="fst-italic">Samosas Chaat (9,00€)</p>
+                    <p data-lang="en" class="fst-italic">Samosas Chaat (9,00€)</p> -->
+                    <div class="special-menu-section">
+                      <h3 data-aos="fade-up" data-lang="en">Wednesday ANJALI SPEZIAL MENÜ</h3>
+                      <h3 data-aos="fade-up" data-lang="de" style="display:none;">Mittwoch ANJALI SPEZIAL MENÜ</h3>
+                  
+                      <!-- Time Slots Table -->
+                      <table class="special-menu-table" data-aos="fade-up" data-aos-delay="100">
+                          <tr>
+                              <th data-lang="en">Time Slots</th>
+                              <th data-lang="de" style="display:none;">Zeiten</th>
+                          </tr>
+                          <tr>
+                              <td data-lang="en">9:30 AM - 2:00 PM & 6:00 PM - 9:00 PM</td>
+                              <td data-lang="de" style="display:none;">9:30 - 14:00 Uhr & 18:00 - 21:00 Uhr</td>
+                          </tr>
+                      </table>
+                  
+                      <!-- Price Options -->
+                      <div class="menu-prices" data-aos="fade-up" data-aos-delay="150">
+                          <p data-lang="en"><strong>All dishes available in 2 versions:</strong> Vegetarian (12€) | Vegan with coconut cream (13€)</p>
+                          <p data-lang="de" style="display:none;"><strong>Alle Gerichte in 2 Varianten:</strong> Vegetarisch (12€) | Vegan mit Kokoscreme (13€)</p>
+                      </div>
+                  
+                      <!-- Dish List -->
+                      <div class="menu-dishes" data-aos="fade-up" data-aos-delay="200">
+                          <h4 data-lang="en">Available Dishes</h4>
+                          <h4 data-lang="de" style="display:none;">Verfügbare Gerichte</h4>
+                  
+                          <ul>
+                              <li>
+                                <span data-lang="de">Aloo Paneer - Indischer Käse und kartoffeln in Tomaten-Currysoße</span>
+                                <span data-lang="en" style="display:none;">Aloo Paneer - Indian cheese and potatoes in tomato curry sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Aloo Palak - Spinat mit Kartoffeln Butter-Currysoße</span>
+                                <span data-lang="en" style="display:none;">Aloo Palak - spinach with potatoes in butter curry sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Paneer Korma - indischer Käse, Mandeln und Rosinen in Curry-Cremesoße</span>
+                                <span data-lang="en" style="display:none;">Paneer Korma - Indian cheese, almonds and raisins in curry cream sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Mung Dal Trka - Linseneintopf mit Zwiebeln in Tomaten-Buttersoße</span>
+                                <span data-lang="en" style="display:none;">Mung Dal Trka - lentil stew with onions in tomato butter sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Chili Fry Gobi - marinierter Blumenkohl in süß-sauer Tomaten-Currysoße (scharf)</span>
+                                <span data-lang="en" style="display:none;">Chili Fry Gobi - marinated cauliflower in sweet and sour tomato curry sauce (spicy)</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Pumpkin Curry - pürierter Kürbis in Tomaten-Currysoße</span>
+                                <span data-lang="en" style="display:none;">Kürbis Curryy - pureed pumpkin in tomato curry sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Curry Pakora - Kichererbsencurry mit gehackten Gemüsebällchen und Erbsen in Tomaten-Curry Soße</span>
+                                <span data-lang="en" style="display:none;">Curry Pakora - chickpea curry with chopped vegetable balls and peas in tomato curry sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="de">Ambersari Chole Khulcha - Kichererbsencurry in süß-sauer Tomatensoße</span>
+                                <span data-lang="en" style="display:none;">Ambersari Chole Khulcha - chickpea curry in sweet and sour tomato sauce</span>
+                              </li>
+                              <li>
+                                <span data-lang="en">Bread Pakora - stuffed sandwich deep-fried with chickpea flour (8,00€)</span>
+                                <span data-lang="de" style="display:none;">Bread Pakora - gefülltes Sandwich mit Kichererbsenmehl fritiert (8,00€)</span>
+                              </li>
+                              <li><span data-lang="en">Samosas Chaat (9,00€)</span> <span data-lang="de" style="display:none;">Samosas Chaat (9,00€)</span></li>
+                          </ul>
+                      </div>
+                  </div>
                   </div>
                   <div class="col-lg-4 text-center order-1 order-lg-2">
-                    <img src="assets/img/pasta.jpg" alt="" class="img-fluid">
+                    <img src="assets/img/specials.jpg" alt="" class="img-fluid">
                   </div>
                 </div>
               </div>
@@ -346,7 +469,7 @@
                   </div>
                 </div>
               </div> -->
-              <div class="tab-pane" id="specials-tab-10">
+              <!-- <div class="tab-pane" id="specials-tab-10">
                 <div class="row">
                   <div class="col-lg-8 details order-2 order-lg-1">
                     <h3 data-lang="en">Friday Indian Tag</h3>
@@ -366,7 +489,7 @@
                     <img src="assets/img/menu.jpeg" alt="" class="img-fluid">
                   </div>
                 </div>
-              </div>
+              </div> -->
             </div>
           </div>
         </div>
